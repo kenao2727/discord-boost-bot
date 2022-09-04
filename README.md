@@ -10,23 +10,21 @@
 
 <div align=center>
 
- <a href="https://github.com/mongodb/mongo">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo">
+ <a href="https://crusions.xyz">
+    <img src="https://img.shields.io/badge/Encrypted-Services-black" alt="dad">
   </a>
   
-  <a href="https://github.com/discordjs">
-    <img src="https://img.shields.io/badge/discord.js-v13.6.0-blue.svg?logo=npm" alt="discordjs">
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-v3.9-orange.svg?logo=python" alt="python">
   </a>
 
-  <a href="https://github.com/peterhanania/Pogy/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-Apache%202-blue" alt="license">
+  <a href="https://github.com/crusions/discord-boost-bot/LICENSE">
+    <img src="https://img.shields.io/badge/license-Eclipse%202.0-orange" alt="license">
   </a>
 
 </div>
 
 <p align="center">
-  <a href="#about">About</a>
-  •
   <a href="#features">Features</a>
   •
   <a href="#installation">Installation</a>
@@ -36,8 +34,6 @@
   <a href="#license">License</a>
   •
   <a href="#donate">Donate</a>
-  •
-  <a href="#credits">Credits</a>
 </p>
 
 
@@ -45,13 +41,13 @@ If you liked this repository, feel free to leave a star ⭐
 
 ## Features
 
-- **addadmin:**
-- **boost:** 
-- **cashapp:** 
-- **restock:** 
-- **stock:**
-- **vccgen:**
-- **whitelist:**
+- **/addadmin**
+- **/boost** 
+- **/cashapp** 
+- **/restock** 
+- **/stock**
+- **/vccgen**
+- **/whitelist**
 
 
 
@@ -83,7 +79,7 @@ Your `settings.json` should follow
 
 ## License
 
-Released under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0) license.
+Released under the [Eclipse License](https://www.eclipse.org/legal/epl-2.0/) license.
 
 ## Donate
 
