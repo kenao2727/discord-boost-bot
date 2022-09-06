@@ -5,3 +5,4 @@ discord.py==2.0.1
 discord.py==2.0.0
 py-cord==2.1.1
 pyinstaller
+py-cord==2.0.0b1
