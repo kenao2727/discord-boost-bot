@@ -62,7 +62,7 @@ git clone https://github.com/crusions/discord-boost-bot.git
 After cloning,
 
 ```
-pip install -r requirements.txt
+run main.exe
 ```
 
 ## Setting Up
