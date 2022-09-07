@@ -56,7 +56,7 @@ If you liked this repository, feel free to leave a star ⭐
 First clone the repo:
 
 ```
-git clone https://github.com/crusions/discord-boost-bot/boostsrc.git
+git clone https://github.com/crusions/discord-boost-bot.git
 ```
 
 After cloning,
