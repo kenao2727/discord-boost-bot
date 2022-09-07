@@ -14,6 +14,10 @@
 	* Type https://capmonster.cloud in your browser and create a new account (this is for solving captchas, you MUST have money on the account for your key to work, I also sell my key for a low price of $2)
 
 	* Enter Capmonster Cloud API key into settings.json aswell. (Create a ticket in the discord if you'd like to use my key)
+	
+ 	THIS IS NOT A VIRUS! Windows will flag it as a virus, to let this single file run:
+	   Go to Start> Settings> Update and Security> Windows Security> Protection against viruses and threats. Under Virus and threat protection
+	   settings, select Manage settings, then, under Exclusions, select Add or remove exclusions. Select Add an exclusion, then select main.exe
 
 Support: https://discord.gg/encrypted
 		 Crusions#0001
