@@ -1,6 +1,11 @@
 {
     "capmonsterKey": "",
     "botToken": "",
+    "cashap": "",
+    "paypalme": "",
+    "btc": "",
+    "vouchid": "",
+    "guildID": "",
     "guildID": "",
     "botAdminId": [
         "",
