@@ -15,11 +15,9 @@
 
 	* Type https://capmonster.cloud in your browser and create a new account (this is for solving captchas, you MUST have money on the account for your key  to work.)
 
-	* Enter Capmonster Cloud API key into settings.json aswell. (Create a ticket in the discord if you'd like to use my key)
-
-	* Run install.bat to install the neccesary packages.
-
-	* Finally, you should be able to run start.bat
+	* Enter Capmonster Cloud API key into settings.json aswell. (Create a ticket in the discord if you'd like to use my key $3)
+	
+	* Upload the emojis in /boostsrc/emojis to your discord server for the emojis to show up. (I will also help with this aswell just create a ticket in the discord)
 
 
 	EXAMPLE SETTINGS:
