@@ -23,18 +23,18 @@
 	EXAMPLE SETTINGS:
 
 	{
-    "capmonsterKey": "4f0v5c1641861444n63226cbb90617e643",
-    "botToken": "MTAxNTcxNDg3MTG0MjcwMTQ1Nw.Gr5kUu.xqSninhDNN5CG444NCZjwfH2b7XLyV6KMDMz1TA",
-    "cashap": "$Crutons",
-    "paypalme": "https://paypal.me/daddycrusions",
-    "btc": "3PLB2hMvhdCdR5iMFSerpT8NFKAhqH7JLE",
-    "vouchid": "<#1002584567250694274>",
-    "guildID": "999082628479193119",
-    "botAdminId": [
+    "capmonsterKey": "4f0v5c1641861444n63226cbb90617e643", // Get this from https://capmonster.cloud
+    "botToken": "MTAxNTcxNDg3MTG0MjcwMTQ1Nw.Gr5kUu.xqSninhDNN5CG444NCZjwfH2b7XLyV6KMDMz1TA", // Discord Developer Portal https://discord.com/developers/applications
+    "cashap": "$Crutons", // CashApp Tag, if you don't have cashapp you can leave this blank or put NOT ACCEPTED
+    "paypalme": "https://paypal.me/daddycrusions", // Your PayPal.me link or you can put your email, both work
+    "btc": "3PLB2hMvhdCdR5iMFSerpT8NFKAhqH7JLE", // Bitcoin recieving address
+    "vouchid": "<#1002584567250694274>", // This is your vouching channel id, please leave <#> & only replace the numbers for it mention the channel
+    "guildID": "999082628479193119", // Your Discord server ID that the bot is already in.
+    "botAdminId": [		// These can be the same or different, these ids are able to whitelist other people
         "468778192010700000",
         "468778192010700000"
     ],
-    "botWhitelistedId": [
+    "botWhitelistedId": [ 		// These can be the same or different, these ids are able to use the boosts
         "468778192010700000",
         "468778192010700000"
     ]
