@@ -39,6 +39,8 @@
 
 If you liked this repository, feel free to leave a star ⭐
 
+READ ADDITIONAL README.txt INSIDE THE FOLDER PLEASE!
+
 ## Features
 
 - **/addadmin**
@@ -62,7 +64,11 @@ git clone https://github.com/crusions/discord-boost-bot.git
 After cloning,
 
 ```
-run main.exe
+run install.bat & install required files
+```
+
+```
+run start.bat (it could take a second to load the script so be patient)
 ```
 
 ## Setting Up
