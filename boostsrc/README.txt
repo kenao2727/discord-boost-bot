@@ -1,6 +1,6 @@
 
 
-		How to use Discord Nitro Boost Bot:
+		How to Setup Discord Nitro Boost Bot:
 
 	* First make sure you have your bot token and everything need for this, turn on developer mode in your discord client if you havent already.
 	  (You can get your bot token from https://discord.com/developers/applications)
@@ -34,6 +34,12 @@
         "468778192010700000"
     ]
 }
+
+
+How to Run the Boost Bot:
+
+   * run install.bat
+   * run start.bat
 
 
 Support: https://discord.gg/encrypted
