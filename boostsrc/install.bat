@@ -4,3 +4,4 @@ pip install requests==2.27.1
 pip install discord==2.0.0
 pip install discord.py==2.0.1
 pip install pycord
+pip install getpass
