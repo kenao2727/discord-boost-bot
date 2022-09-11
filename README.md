@@ -6,7 +6,7 @@
  <br>
 </h1>
 
-<h3 align=center>A fully customizable bot written in Python 3.9 | MUST HAVE 3.10 TO RUN OBFUSCATED FILE!</h3>
+<h3 align=center>A fully customizable bot written in Python 3.9</h3>
 
 <div align=center>
 
